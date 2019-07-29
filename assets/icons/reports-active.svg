@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M26,0 L12,0 C10.9,0 10,0.9 10,2 L10,16 C10,17.1 10.9,18 12,18 L26,18 C27.1,18 28,17.1 28,16 L28,2 C28,0.9 27.1,0 26,0 Z M16,14 L14,14 L14,7 L16,7 L16,14 Z M20,14 L18,14 L18,4 L20,4 L20,14 Z M24,14 L22,14 L22,10 L24,10 L24,14 Z" id="path-1"></path>
+    </defs>
+    <g id="Current" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Asset-Dashboard-L1" transform="translate(-632.000000, -22.000000)">
+            <g id="Group-4" transform="translate(451.000000, 11.000000)">
+                <g id="Group-3" transform="translate(171.000000, 11.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Shape" fill="#E20074" fill-rule="nonzero" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

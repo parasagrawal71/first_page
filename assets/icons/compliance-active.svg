@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Portfolio_Active</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Current" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Asset-Dashboard-L1" transform="translate(-484.000000, -27.000000)" fill="#E20074">
+            <g id="Portfolio_Active" transform="translate(481.000000, 24.000000)">
+                <g id="np_portfolio_1377364_000000" transform="translate(3.000000, 3.000000)">
+                    <g id="Group-15">
+                        <path d="M10.6379966,3 C11.3947492,3 12,3.57432857 12,4.2924188 L12,10.70688 C12,11.4249702 11.3947492,11.9992988 10.6379966,11.9992988 L1.36200345,12 C0.605250782,12 9.76996262e-15,11.4256714 9.76996262e-15,10.7075812 L9.76996262e-15,4.29312002 C9.76996262e-15,3.57502978 0.605250782,3.00070122 1.36200345,3.00070122 L10.0298971,3 L10.6379966,3 Z" id="Path"></path>
+                        <path d="M4,2 L4,1.00787695 L8,1.00787695 L8,2 L9,2 L9,1.00787695 C9,0.449420083 8.59081412,0 8.08235294,0 L3.91764706,0 C3.40918588,0 3,0.449420083 3,1.00787695 L3,2 L4,2 Z" id="Path"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

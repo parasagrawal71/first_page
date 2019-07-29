@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="45px" viewBox="0 0 50 45" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>Storage Accounts</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Multi-Cloud" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Storage-Accounts" fill-rule="nonzero">
+            <path d="M44,45 L6,45 C2.686,45 0,42.314 0,39 L0,0 L50,0 L50,39 C50,42.314 47.314,45 44,45 Z" id="Path" fill="#464D57"></path>
+            <rect id="Rectangle" fill="#7D8186" x="4" y="11" width="42" height="11"></rect>
+            <rect id="Rectangle" fill="#5A616B" x="4" y="26" width="42" height="15"></rect>
+            <rect id="Rectangle" fill="#FFFFFF" opacity="0.9" x="4" y="0" width="42" height="7"></rect>
+            <rect id="Rectangle" fill="#FFFFFF" opacity="0.3" x="4" y="26" width="42" height="2"></rect>
+            <rect id="Rectangle" fill="#FFFFFF" opacity="0.3" x="4" y="11" width="42" height="2"></rect>
+            <path d="M0,0 L0,42.693 C0,43.907 0.985,44.9 2.188,44.9 L8,44.9 L40,0 L0,0 Z" id="Path" fill="#FFFFFF" opacity="0.15"></path>
+        </g>
+    </g>
+</svg>

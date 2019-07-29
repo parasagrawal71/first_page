@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="45px" height="50px" viewBox="0 0 45 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>Network Interfaces</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Multi-Cloud" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Network-Interfaces" fill-rule="nonzero">
+            <rect id="Rectangle" fill="#5A616B" x="0" y="0" width="40.205" height="50"></rect>
+            <polygon id="Path" fill="#000000" opacity="0.2" points="14.636 37.365 8.492 37.365 8.492 11.908 16.734 11.908 16.734 14.006 10.59 14.006 10.59 35.267 14.636 35.267"></polygon>
+            <polygon id="Path" fill="#000000" opacity="0.2" points="12.538 42.61 4.296 42.61 4.296 7.713 17.783 7.713 17.783 9.811 6.394 9.811 6.394 40.512 12.538 40.512"></polygon>
+            <polygon id="Path" fill="#000000" opacity="0.2" points="30.12 40.144 24.058 40.144 24.058 22.834 28.798 22.834 28.798 15.035 30.896 15.035 30.896 24.932 26.156 24.932 26.156 38.046 30.12 38.046"></polygon>
+            <rect id="Rectangle" fill="#373D46" x="16.19" y="4.915" width="18.921" height="11.888"></rect>
+            <rect id="Rectangle" fill="#000000" opacity="0.200000003" x="40.205" y="3.846" width="4.501" height="8.577"></rect>
+            <rect id="Rectangle" fill="#000000" opacity="0.200000003" x="40.205" y="16.084" width="4.501" height="22.825"></rect>
+            <rect id="Rectangle" fill="#373D46" x="17.809" y="31.718" width="3.243" height="13.391"></rect>
+            <rect id="Rectangle" fill="#373D46" x="12.565" y="31.718" width="3.243" height="13.391"></rect>
+            <path d="M20.003,24.11 C20.003,25.453 18.914,26.541 17.572,26.541 L17.572,26.541 C16.229,26.541 15.141,25.452 15.141,24.11 L15.141,24.11 C15.141,22.767 16.23,21.6789993 17.572,21.6789993 L17.572,21.6789993 C18.915,21.678 20.003,22.767 20.003,24.11 L20.003,24.11 Z" id="Path" fill="#E5E5E5"></path>
+            <rect id="Rectangle" fill="#E5E5E5" x="29.846" y="32.343" width="4.322" height="12.365"></rect>
+        </g>
+    </g>
+</svg>

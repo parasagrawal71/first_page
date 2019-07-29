@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54 (76480) - https://sketchapp.com -->
+    <title>Check</title>
+    <desc>Created with Sketch.</desc>
+    <g id="CIS/TIS-Scores" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="CIS-Score" transform="translate(-1132.000000, -431.000000)" fill="#81878F">
+            <path d="M1142,451 C1136.47715,451 1132,446.522847 1132,441 C1132,435.477153 1136.47715,431 1142,431 C1147.52285,431 1152,435.477153 1152,441 C1152,446.522847 1147.52285,451 1142,451 Z M1140.17794,443.014781 L1137.80728,440.644116 L1137,441.445708 L1140.17794,444.62365 L1147,437.801592 L1146.19841,437 L1140.17794,443.014781 Z" id="Check"></path>
+        </g>
+    </g>
+</svg>

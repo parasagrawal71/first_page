@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="37px" height="50px" viewBox="0 0 37 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>Network Security Groups (Classic)</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Multi-Cloud" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Network-Security-Groups-(Classic)" fill-rule="nonzero">
+            <path d="M31.2,6 C20.2,4.8 18.3,0 18.3,0 C18.3,0 15.8,6.2 0,6.2 L0,31.8 C0,34.9 1.7,37.8 4.1,40.3 C9.5,46 18.3,49.9 18.3,49.9 C18.3,49.9 36.6,41.9 36.6,31.8 L36.6,6.2 C34.6,6.2 32.8,6.1 31.2,6 Z" id="Path" fill="#5A616B"></path>
+            <path d="M22.9,16.5 L31.2,6 C20.2,4.8 18.3,0 18.3,0 C18.3,0 15.8,6.2 0,6.2 L0,31.8 C0,34.9 1.7,37.8 4.1,40.3 L10.3,32.5 L22.9,16.5 Z" id="Path" fill="#FFFFFF" opacity="0.200000003"></path>
+            <g id="Group" transform="translate(3.000000, 5.000000)" fill="#FFFFFF">
+                <path d="M0.8,19.4 L0.8,25.5 C0.8,28 2.2,30.3 4.1,32.3 C8.4,36.9 15.4,39.9 15.4,39.9 L15.4,19.4 L0.8,19.4 Z" id="Path" opacity="0.3"></path>
+                <path d="M15.3,39.9 C15.3,39.9 29.9,33.5 29.9,25.5 L29.9,19.4 L15.3,19.4 L15.3,39.9 Z M15.3,0.1 C15.3,0.1 13.3,5.1 0.7,5.1 L0.7,19.4 L15.3,19.4 L15.3,0.1 Z" id="Shape" opacity="0.7"></path>
+                <path d="M25.5,4.9 C16.8,3.9 15.3,0.2 15.3,0.2 L15.3,19.4 L29.9,19.4 L29.9,5.1 C28.3,5.1 26.8,5 25.5,4.9 Z" id="Path" opacity="0.3"></path>
+            </g>
+        </g>
+    </g>
+</svg>

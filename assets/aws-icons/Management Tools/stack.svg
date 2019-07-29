@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="46px" viewBox="0 0 48 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>AWS-CloudFormation_Stack_light-bg</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="AWS-OpsWorks_Stack2_light-bg" transform="translate(-65.000000, -26.000000)" fill="#637394" fill-rule="nonzero">
+            <g id="AWS-CloudFormation_Stack_light-bg" transform="translate(65.000000, 26.000000)">
+                <path d="M47.5,14.16 L0.5,14.16 L0.5,0 L47.5,0 L47.5,14.16 Z M2.5,12.16 L45.5,12.16 L45.5,2 L2.5,2 L2.5,12.16 Z" id="Shape"></path>
+                <path d="M23.12,30.09 L0.5,30.09 L0.5,15.91 L23.12,15.91 L23.12,30.09 Z M2.5,28.09 L21.12,28.09 L21.12,17.91 L2.5,17.91 L2.5,28.09 Z" id="Shape"></path>
+                <path d="M14.69,46 L0.5,46 L0.5,31.84 L14.69,31.84 L14.69,46 Z M2.5,44 L12.69,44 L12.69,33.84 L2.5,33.84 L2.5,44 Z" id="Shape"></path>
+                <path d="M31.56,46 L16.44,46 L16.44,31.84 L31.56,31.84 L31.56,46 Z M18.44,44 L29.56,44 L29.56,33.84 L18.44,33.84 L18.44,44 Z" id="Shape"></path>
+                <path d="M47.5,46 L33.31,46 L33.31,31.84 L47.5,31.84 L47.5,46 Z M35.31,44 L45.5,44 L45.5,33.84 L35.31,33.84 L35.31,44 Z" id="Shape"></path>
+                <path d="M47.5,30.09 L24.87,30.09 L24.87,15.91 L47.5,15.91 L47.5,30.09 Z M26.87,28.09 L45.5,28.09 L45.5,17.91 L26.87,17.91 L26.87,28.09 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

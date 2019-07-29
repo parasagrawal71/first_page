@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="48px" viewBox="0 0 38 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54 (76480) - https://sketchapp.com -->
+    <title>Amazon-Elastic-Block-Store-EBS_Volume_light-bg</title>
+    <desc>Created with Sketch.</desc>
+    <g id="AWS-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.800000012">
+        <g id="Storage/Amazon-Elastic-Block-Store-EBS_Volume_light-bg" fill="#3C5079" fill-rule="nonzero">
+            <g id="Amazon-Elastic-Block-Store-EBS_Volume_light-bg">
+                <path d="M36.84,47.5 L1.22,47.5 C0.66771525,47.5 0.22,47.0522847 0.22,46.5 L0.22,13.69 C0.22,13.1377153 0.66771525,12.69 1.22,12.69 L36.84,12.69 C37.3922847,12.69 37.84,13.1377153 37.84,13.69 L37.84,46.5 C37.84,47.0522847 37.3922847,47.5 36.84,47.5 Z M2.22,45.5 L35.84,45.5 L35.84,14.69 L2.22,14.69 L2.22,45.5 Z M36.84,10.94 L1.16,10.94 C0.777604895,10.9407653 0.428253417,10.723391 0.26,10.38 C0.111249606,10.0529094 0.149424749,9.671158 0.36,9.38 L6.7,0.9 C6.88885438,0.648194157 7.1852427,0.5 7.5,0.5 L30.5,0.5 C30.8147573,0.5 31.1111456,0.648194157 31.3,0.9 L37.64,9.34 C37.8505753,9.631158 37.8887504,10.0129094 37.74,10.34 C37.5833869,10.6989924 37.2316134,10.9335081 36.84,10.94 Z M3.16,8.94 L34.84,8.94 L30,2.5 L8,2.5 L3.16,8.94 Z" id="Combined-Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

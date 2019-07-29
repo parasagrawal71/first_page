@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Assets</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Asset-Overview" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-413.000000, -160.000000)" fill="#CCCCCC" fill-rule="nonzero" id="Shape">
+            <g transform="translate(212.000000, 146.000000)">
+                <path d="M201,20 L207,20 L207,14 L201,14 L201,20 Z M210,38 L216,38 L216,32 L210,32 L210,38 Z M201,38 L207,38 L207,32 L201,32 L201,38 Z M201,29 L207,29 L207,23 L201,23 L201,29 Z M210,29 L216,29 L216,23 L210,23 L210,29 Z M219,14 L219,20 L225,20 L225,14 L219,14 Z M210,20 L216,20 L216,14 L210,14 L210,20 Z M219,29 L225,29 L225,23 L219,23 L219,29 Z M219,38 L225,38 L225,32 L219,32 L219,38 Z" id="Assets"></path>
+            </g>
+        </g>
+    </g>
+</svg>
